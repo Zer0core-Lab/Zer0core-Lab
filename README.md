@@ -1,4 +1,4 @@
-# Welcome to Zer0Core-Lab
+# Welcome to Zer0core-Lab
 
 🔒 Leading the Way in Security Research | 💼 Hardware, Firmware and Software Security | ✍️ Exploring Vulnerabilities and Malware
 
