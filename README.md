@@ -24,7 +24,7 @@ I share in-depth tutorials on low-level programming, finding vulnerabilities, an
 ## 🌐 Connect with Me
 
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/zer0larson/) - Connect professionally
+- 💼 [LinkedIn](www.linkedin.com/in/zer0larson) - Connect professionally
 - 📧 Email: zer0corelab@gmail.com
 
 ## ⚡ Fun Fact
