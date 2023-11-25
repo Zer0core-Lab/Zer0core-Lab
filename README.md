@@ -5,7 +5,7 @@ I share in-depth tutorials on low-level programming, finding vulnerabilities, an
 
 ## 🔧 Technologies & Tools
 
-- Assembly (x86,)
+- Assembly (x86)
 - C/C++
 - Python
 - Ethical Hacking
@@ -24,7 +24,7 @@ I share in-depth tutorials on low-level programming, finding vulnerabilities, an
 ## 🌐 Connect with Me
 
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your_linkedin) - Connect professionally
+- 💼 [LinkedIn](www.linkedin.com/in/zer0larson) - Connect professionally
 - 📧 Email: zer0corelab@gmail.com
 
 ## ⚡ Fun Fact
