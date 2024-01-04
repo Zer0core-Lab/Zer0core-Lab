@@ -1,16 +1,14 @@
 # Hi, I'm Larson Twum 👋
 
-Welcome to my GitHub profile! I'm passionate about computer security, low-level code, and teaching others the intricacies of the digital world. On my YouTube channel,
-I share in-depth tutorials on low-level programming, finding vulnerabilities, and the art of reverse engineering.
+Welcome to my GitHub profile! I'm passionate about computer security, low-level code, reverse engineer  and malware analysis.
+I'm dedicated to exploring the depths of cybersecurity, constantly learning, and sharing my knowledge through various platforms.
 
-## 🔧 Technologies & Tools
+## 🛠️ Skills
 
-- Assembly (x86)
-- C/C++
-- Python
-- Ethical Hacking
-- Reverse Engineering
-- Binary Exploitation
+- **Security Research:** In-depth exploration of vulnerabilities, exploits, and security mechanisms.
+- **Reverse Engineering:** Analyzing binaries, firmware, and hardware components to uncover their functionality and vulnerabilities.
+- **IoT Security:** Specialized in securing Internet of Things devices and networks.
+- **Malware Analysis:** Identifying and dissecting malware to understand its behavior and mitigate threats.
 
 ## 🎥 YouTube Content
 
